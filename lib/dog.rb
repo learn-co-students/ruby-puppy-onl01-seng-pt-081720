@@ -16,7 +16,7 @@ class Dog
   end
   
   def self.print_all
-   puts @@all.collect { |value| value = value.name}
+   puts @@all.collect { |value| value.name}
   end
   def save
      @@all << self 
