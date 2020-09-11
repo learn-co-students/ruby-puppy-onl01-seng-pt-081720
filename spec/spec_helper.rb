@@ -1,4 +1,3 @@
-
 require_relative "../lib/dog.rb"
 
 RSpec.configure do |config|
